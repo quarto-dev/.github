@@ -13,3 +13,5 @@ Quarto has many different parts, and these are developed in different repositori
 * [`quarto-ext`: Quarto extensions developed by Quarto’s team](https://github.com/quarto-ext/)
 
 The [`quarto-cli` discussion forum](https://github.com/quarto-dev/quarto-cli/discussions/) is where we host discussions, questions, help, and feature requests.
+
+Quarto's development is supported by [Posit](https://posit.co).
