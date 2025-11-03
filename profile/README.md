@@ -11,6 +11,7 @@ Quarto has many different parts, and these are developed in different repositori
 * [VS Code and Positron Extension](https://github.com/quarto-dev/quarto/tree/main/apps/vscode): the source and visual editors in those IDEs
 * [GitHub Actions](https://github.com/quarto-dev/quarto-actions): the CI workflows
 * [`quarto-ext`: Quarto extensions developed by Quarto’s team](https://github.com/quarto-ext/)
+* [`quarto-journals`: Quarto journal's template maintained](https://github.com/quarto-journals)
 
 The [`quarto-dev` discussion forum](https://github.com/orgs/quarto-dev/discussions) is where we host discussions, questions, help, and feature requests.
 
